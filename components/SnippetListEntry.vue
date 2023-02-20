@@ -1,5 +1,5 @@
 <template>
-    <div class=" border border-gray-200 shadow-sm rounded m-4 p-3 hover:bg-slate-100">
+    <div class=" border border-gray-200 shadow-sm rounded mb-4 p-3 hover:bg-slate-100">
         <div>
             <h2 class="card-title text-orange-600 text-lg">Caption!</h2>
             <p class="h-20 overflow-auto text-sm">
