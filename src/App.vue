@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import SnippetListEntry from './components/SnippetListEntry.vue'
+</script>
+
 <template>
     <div class="min-h-screen flex flex-col px-36 gap-8">
         <header class="pt-4 pb-4">
@@ -41,3 +45,6 @@
         </footer>
     </div>
 </template>
+<style scoped>
+
+</style>
